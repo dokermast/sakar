@@ -16,6 +16,8 @@
 
 git clone
 
+composer install
+
 create & set .env
 
 php artisan migrate
@@ -23,3 +25,8 @@ php artisan migrate
 php artisan db:seed
 
 php artisan storage:link
+
+
+
+=================================================================
+
