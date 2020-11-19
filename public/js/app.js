@@ -2117,6 +2117,7 @@ __webpack_require__.r(__webpack_exports__);
     formClose: function formClose() {
       this.showArticlesForm = false;
       this.showArticlesList = true;
+      this.getArticles();
     }
   },
   components: {

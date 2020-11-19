@@ -95,6 +95,7 @@
             formClose(){
                 this.showArticlesForm = false;
                 this.showArticlesList = true;
+                this.getArticles();
             }
         },
         components: {
