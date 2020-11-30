@@ -1,3 +1,13 @@
+Create a website that displays pagination notes on the home page, with
+the ability to create and save notes in the database.
+The note should have the following data:
+● name
+● text
+● image (optional field for creating a note)
+It should be possible to delete the note.
+There must be a page or modal to create a note.
+
+==============================================================
 на главной странице отображаются заметки с пагинацией, 
 
 с возможностью создания и сохранения заметки в БД.
